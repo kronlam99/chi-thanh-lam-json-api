@@ -3,21 +3,21 @@
     {
     "ID":"01",
     "Title": "Lykee nail Salon Creating Beauty",
-    "Image": "banner_ing.jpg",
+    "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/banner_ing.jpg",
     "More": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur quisquam aspernatur adipisci veritatis aperiam aut dolore consectetur velit ut! Ex, obcaecati unde sint reiciendis similique maxime commodi adipisci ducimus enim."
 
     },
     {
     "ID":"02",
     "Title": "Lykee nail Salon Creating Beauty",
-    "Image": "banner_ing.jpg",
+    "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/banner_ing.jpg",
     "More": "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
 
     },
     {
     "ID":"03",
     "Title": "Lykee nail Salon Creating Beauty",
-    "Image": "banner_ing.jpg",
+    "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/banner_ing.jpg",
     "More": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur quisquam aspernatur adipisci veritatis aperiam aut dolore consectetur velit ut!"
 
     }
@@ -25,7 +25,7 @@
   "experts": [
     {
     "Name":"Irina",
-    "Image": "blog3.jpg",
+    "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/blog3.jpg",
     "Introduction": "Lorem ipsum dolor sit amet, iscing elit, sed do magna",
     "More": ["Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim repellendus, ipsum eum, maiores eaque voluptates cumque tempora alias dolor debitis voluptate. Animi, laboriosam corporis omnis amet quia sapiente labore exercitationem!",
 
@@ -37,7 +37,7 @@
     },
     {
     "Name":"Jacob",
-    "Image": "blog1.jpg",
+    "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/blog1.jpg",
     "Introduction": "Lorem ipsum dolor sit amet, iscing elit, sed do magna",
     "More": ["Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim repellendus, ipsum eum, maiores eaque voluptates cumque tempora alias dolor debitis voluptate. Animi, laboriosam corporis omnis amet quia sapiente labore exercitationem!",
 
@@ -49,7 +49,7 @@
     },
     {
     "Name":"Lonut",
-    "Image": "blog2.jpg",
+    "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/blog2.jpg",
     "Introduction": "Lorem ipsum dolor sit amet, iscing elit, sed do magna",
     "More": ["Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim repellendus, ipsum eum, maiores eaque voluptates cumque tempora alias dolor debitis voluptate. Animi, laboriosam corporis omnis amet quia sapiente labore exercitationem!",
 
@@ -64,8 +64,8 @@
     {
     "ID": "OS_02",
     "Title": "Manicure",
-    "Image_intro": "weicon2.png",
-    "Image": "manicure.jpg",
+    "Image_intro": "http://chithanhlam.rf.gd/Nail_salon/static/images/weicon2.png",
+    "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/manicure.jpg",
     "Price": 15.50,
     "Intro": "Lorem ipsum dolor sit amet, consectetur.",
     "More": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit laborum, aperiam reprehenderit laboriosam maxime recusandae expedita exercitationem, pariatur quae, quo iste velit eveniet maiores excepturi iure perferendis facere. Iure, odit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid incidunt, atque dicta distinctio magnam quibusdam eligendi esse explicabo qui eius officia tempore! Vel, illo cum a excepturi reiciendis minima perferendis."
@@ -73,8 +73,8 @@
     {
     "ID": "OS_01",
     "Title": "Nail Art",
-    "Image_intro": "weicon1.png",
-    "Image": "nail-art.jpg",
+    "Image_intro": "http://chithanhlam.rf.gd/Nail_salon/static/images/weicon1.png",
+    "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/nail-art.jpg",
     "Price": 15.50,
     "Intro": "Lorem ipsum dolor sit amet, consectetur.",
     "More": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit laborum, aperiam reprehenderit laboriosam maxime recusandae expedita exercitationem, pariatur quae, quo iste velit eveniet maiores excepturi iure perferendis facere. Iure, odit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid incidunt, atque dicta distinctio magnam quibusdam eligendi esse explicabo qui eius officia tempore! Vel, illo cum a excepturi reiciendis minima perferendis."
@@ -82,8 +82,8 @@
     {
     "ID": "OS_04",
     "Title": "Paraffin wax",
-    "Image_intro": "weicon4.png",
-    "Image": "paraffin-wax.jpg",
+    "Image_intro": "http://chithanhlam.rf.gd/Nail_salon/static/images/weicon4.png",
+    "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/paraffin-wax.jpg",
     "Price": 15.50,
     "Intro": "Lorem ipsum dolor sit amet, consectetur.",
     "More": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit laborum, aperiam reprehenderit laboriosam maxime recusandae expedita exercitationem, pariatur quae, quo iste velit eveniet maiores excepturi iure perferendis facere. Iure, odit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid incidunt, atque dicta distinctio magnam quibusdam eligendi esse explicabo qui eius officia tempore! Vel, illo cum a excepturi reiciendis minima perferendis."
@@ -91,8 +91,8 @@
     {
     "ID": "OS_03",
     "Title": "Pedicure",
-    "Image_intro": "weicon3.png",
-    "Image": "pedicure.jpg",
+    "Image_intro": "http://chithanhlam.rf.gd/Nail_salon/static/images/weicon3.png",
+    "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/pedicure.jpg",
     "Price": 15.50,
     "Intro": "Lorem ipsum dolor sit amet, consectetur.",
     "More": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit laborum, aperiam reprehenderit laboriosam maxime recusandae expedita exercitationem, pariatur quae, quo iste velit eveniet maiores excepturi iure perferendis facere. Iure, odit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid incidunt, atque dicta distinctio magnam quibusdam eligendi esse explicabo qui eius officia tempore! Vel, illo cum a excepturi reiciendis minima perferendis."
@@ -124,123 +124,123 @@
   "gallery": [
     {
       "ID":1,
-      "image": "shorturl.at/pzJO9"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(1).jpg"
     },
     {
       "ID":2,
-      "image": "shorturl.at/adqNU"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(2).jpg"
     },
     {
       "ID":3,
-      "image": "shorturl.at/zEP05"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(3).jpg"
     },
     {
       "ID":4,
-      "image": "shorturl.at/qEGKP"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(4).jpg"
     },
     {
       "ID":5,
-      "image": "shorturl.at/pxJWZ"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(5).jpg"
     },
     {
       "ID":6,
-      "image": "shorturl.at/lnGT9"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(6).jpg"
     },
     {
       "ID":7,
-      "image": "shorturl.at/kAIMO"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(7).jpg"
     },
     {
       "ID":8,
-      "image": "shorturl.at/ikvAE"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(8).jpg"
     },
     {
       "ID":9,
-      "image": "shorturl.at/nqEQ0"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(9).jpg"
     },
     {
       "ID":10,
-      "image": "shorturl.at/tPQ27"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(10).jpg"
     },
     {
       "ID":11,
-      "image": "shorturl.at/bghrQ"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(11).jpg"
     },
     {
       "ID":12,
-      "image": "shorturl.at/fhpEF"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(12).jpg"
     },
     {
       "ID":13,
-      "image": "shorturl.at/gmoFR"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(13).jpg"
     },
     {
       "ID":14,
-      "image": "shorturl.at/ehyN5"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(14).jpg"
     },
     {
       "ID":15,
-      "image": "shorturl.at/LM139"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(15).jpg"
     },
     {
       "ID":16,
-      "image": "shorturl.at/hsP23"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(16).jpg"
     },
     {
       "ID":17,
-      "image": "shorturl.at/frAT9"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(17).jpg"
     },
     {
       "ID":18,
-      "image": "shorturl.at/bhrR4"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(18).jpg"
     },
     {
       "ID":19,
-      "image": "shorturl.at/npL25"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(19).jpg"
     },
     {
       "ID":20,
-      "image": "shorturl.at/eEHJ6"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(20).jpg"
     },
     {
       "ID":21,
-      "image": "shorturl.at/xKO45"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(21).jpg"
     },
     {
       "ID":22,
-      "image": "shorturl.at/uAKWY"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(22).jpg"
     },
     {
       "ID":23,
-      "image": "shorturl.at/dgtJY"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(23).jpg"
     },
     {
       "ID":24,
-      "image": "shorturl.at/uELZ4"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(24).jpg"
     },
     {
       "ID":25,
-      "image": "shorturl.at/adqNU"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(25).jpg"
     },
     {
       "ID":26,
-      "image": "shorturl.at/iIJQV"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(26).jpg"
     },
     {
       "ID":27,
-      "image": "shorturl.at/jBFX7"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(27).jpg"
     },
     {
       "ID":28,
-      "image": "shorturl.at/sxCS7"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(28).jpg"
     },
     {
       "ID":29,
-      "image": "shorturl.at/osEP1"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(29).jpg"
     },
     {
       "ID":30,
-      "image": "shorturl.at/wEVX5"
+      "image": "http://chithanhlam.rf.gd/Nail_salon/static/images/gallery/gallery%20(30).jpg"
     }
     
 }
