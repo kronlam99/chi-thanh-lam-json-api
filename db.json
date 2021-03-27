@@ -1,21 +1,21 @@
 {
   "banners": [
     {
-    "ID":"01",
+    "id":"01",
     "Title": "Lykee nail Salon Creating Beauty",
     "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/banner_ing.jpg",
     "More": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur quisquam aspernatur adipisci veritatis aperiam aut dolore consectetur velit ut! Ex, obcaecati unde sint reiciendis similique maxime commodi adipisci ducimus enim."
 
     },
     {
-    "ID":"02",
+    "id":"02",
     "Title": "Lykee nail Salon Creating Beauty",
     "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/banner_ing.jpg",
     "More": "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
 
     },
     {
-    "ID":"03",
+    "id":"03",
     "Title": "Lykee nail Salon Creating Beauty",
     "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/banner_ing.jpg",
     "More": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur quisquam aspernatur adipisci veritatis aperiam aut dolore consectetur velit ut!"
@@ -62,7 +62,7 @@
   ],
   "our_service": [
     {
-    "ID": "OS_02",
+    "id": "OS_02",
     "Title": "Manicure",
     "Image_intro": "http://chithanhlam.rf.gd/Nail_salon/static/images/weicon2.png",
     "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/manicure.jpg",
@@ -71,7 +71,7 @@
     "More": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit laborum, aperiam reprehenderit laboriosam maxime recusandae expedita exercitationem, pariatur quae, quo iste velit eveniet maiores excepturi iure perferendis facere. Iure, odit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid incidunt, atque dicta distinctio magnam quibusdam eligendi esse explicabo qui eius officia tempore! Vel, illo cum a excepturi reiciendis minima perferendis."
     },
     {
-    "ID": "OS_01",
+    "id": "OS_01",
     "Title": "Nail Art",
     "Image_intro": "http://chithanhlam.rf.gd/Nail_salon/static/images/weicon1.png",
     "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/nail-art.jpg",
@@ -80,7 +80,7 @@
     "More": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit laborum, aperiam reprehenderit laboriosam maxime recusandae expedita exercitationem, pariatur quae, quo iste velit eveniet maiores excepturi iure perferendis facere. Iure, odit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid incidunt, atque dicta distinctio magnam quibusdam eligendi esse explicabo qui eius officia tempore! Vel, illo cum a excepturi reiciendis minima perferendis."
     },
     {
-    "ID": "OS_04",
+    "id": "OS_04",
     "Title": "Paraffin wax",
     "Image_intro": "http://chithanhlam.rf.gd/Nail_salon/static/images/weicon4.png",
     "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/paraffin-wax.jpg",
@@ -89,7 +89,7 @@
     "More": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit laborum, aperiam reprehenderit laboriosam maxime recusandae expedita exercitationem, pariatur quae, quo iste velit eveniet maiores excepturi iure perferendis facere. Iure, odit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid incidunt, atque dicta distinctio magnam quibusdam eligendi esse explicabo qui eius officia tempore! Vel, illo cum a excepturi reiciendis minima perferendis."
     },
     {
-    "ID": "OS_03",
+    "id": "OS_03",
     "Title": "Pedicure",
     "Image_intro": "http://chithanhlam.rf.gd/Nail_salon/static/images/weicon3.png",
     "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/pedicure.jpg",
@@ -100,21 +100,21 @@
   ],
   "pricing": [
     {
-    "ID": "P_01",
+    "id": "P_01",
     "Title": "Regular",
     "Price": 20,
     "Intro": "Lorem ipsum dolor sit amet, iscing elit, sed do magna.",
     "Type": "One time"
     },
     {
-    "ID": "P_02",
+    "id": "P_02",
     "Title": "Standard",
     "Price": 30,
     "Intro": "Lorem ipsum dolor sit amet, iscing elit, sed do magna.",
     "Type": "One time"
     },
     {
-    "ID": "P_03",
+    "id": "P_03",
     "Title": "Premium",
     "Price": 40,
     "Intro": "Lorem ipsum dolor sit amet, iscing elit, sed do magna.",
