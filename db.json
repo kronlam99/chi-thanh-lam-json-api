@@ -1,21 +1,21 @@
 {
   "banners": [
     {
-    "id":"01",
+    "id":"1",
     "Title": "Lykee nail Salon Creating Beauty",
     "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/banner_ing.jpg",
     "More": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur quisquam aspernatur adipisci veritatis aperiam aut dolore consectetur velit ut! Ex, obcaecati unde sint reiciendis similique maxime commodi adipisci ducimus enim."
 
     },
     {
-    "id":"02",
+    "id":"2",
     "Title": "Lykee nail Salon Creating Beauty",
     "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/banner_ing.jpg",
     "More": "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
 
     },
     {
-    "id":"03",
+    "id":"3",
     "Title": "Lykee nail Salon Creating Beauty",
     "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/banner_ing.jpg",
     "More": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur quisquam aspernatur adipisci veritatis aperiam aut dolore consectetur velit ut!"
@@ -24,6 +24,7 @@
   ],
   "experts": [
     {
+    "id":"1",
     "Name":"Irina",
     "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/blog3.jpg",
     "Introduction": "Lorem ipsum dolor sit amet, iscing elit, sed do magna",
@@ -36,6 +37,7 @@
     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis corporis, repellendus earum non dolor beatae consequuntur. Molestias similique ducimus provident hic voluptates fugit quis nesciunt reiciendis cum consectetur. Debitis, error!"]
     },
     {
+    "id":"2",
     "Name":"Jacob",
     "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/blog1.jpg",
     "Introduction": "Lorem ipsum dolor sit amet, iscing elit, sed do magna",
@@ -48,6 +50,7 @@
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis corporis, repellendus earum non dolor beatae consequuntur. Molestias similique ducimus provident hic voluptates fugit quis nesciunt reiciendis cum consectetur. Debitis, error!"]
     },
     {
+    "id":"3",
     "Name":"Lonut",
     "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/blog2.jpg",
     "Introduction": "Lorem ipsum dolor sit amet, iscing elit, sed do magna",
@@ -62,7 +65,7 @@
   ],
   "our_service": [
     {
-    "id": "OS_02",
+    "id": "1",
     "Title": "Manicure",
     "Image_intro": "http://chithanhlam.rf.gd/Nail_salon/static/images/weicon2.png",
     "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/manicure.jpg",
@@ -71,7 +74,7 @@
     "More": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit laborum, aperiam reprehenderit laboriosam maxime recusandae expedita exercitationem, pariatur quae, quo iste velit eveniet maiores excepturi iure perferendis facere. Iure, odit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid incidunt, atque dicta distinctio magnam quibusdam eligendi esse explicabo qui eius officia tempore! Vel, illo cum a excepturi reiciendis minima perferendis."
     },
     {
-    "id": "OS_01",
+    "id": "2",
     "Title": "Nail Art",
     "Image_intro": "http://chithanhlam.rf.gd/Nail_salon/static/images/weicon1.png",
     "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/nail-art.jpg",
@@ -80,7 +83,7 @@
     "More": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit laborum, aperiam reprehenderit laboriosam maxime recusandae expedita exercitationem, pariatur quae, quo iste velit eveniet maiores excepturi iure perferendis facere. Iure, odit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid incidunt, atque dicta distinctio magnam quibusdam eligendi esse explicabo qui eius officia tempore! Vel, illo cum a excepturi reiciendis minima perferendis."
     },
     {
-    "id": "OS_04",
+    "id": "3",
     "Title": "Paraffin wax",
     "Image_intro": "http://chithanhlam.rf.gd/Nail_salon/static/images/weicon4.png",
     "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/paraffin-wax.jpg",
@@ -89,7 +92,7 @@
     "More": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit laborum, aperiam reprehenderit laboriosam maxime recusandae expedita exercitationem, pariatur quae, quo iste velit eveniet maiores excepturi iure perferendis facere. Iure, odit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid incidunt, atque dicta distinctio magnam quibusdam eligendi esse explicabo qui eius officia tempore! Vel, illo cum a excepturi reiciendis minima perferendis."
     },
     {
-    "id": "OS_03",
+    "id": "4",
     "Title": "Pedicure",
     "Image_intro": "http://chithanhlam.rf.gd/Nail_salon/static/images/weicon3.png",
     "Image": "http://chithanhlam.rf.gd/Nail_salon/static/images/pedicure.jpg",
@@ -100,21 +103,21 @@
   ],
   "pricing": [
     {
-    "id": "P_01",
+    "id": "1",
     "Title": "Regular",
     "Price": 20,
     "Intro": "Lorem ipsum dolor sit amet, iscing elit, sed do magna.",
     "Type": "One time"
     },
     {
-    "id": "P_02",
+    "id": "2",
     "Title": "Standard",
     "Price": 30,
     "Intro": "Lorem ipsum dolor sit amet, iscing elit, sed do magna.",
     "Type": "One time"
     },
     {
-    "id": "P_03",
+    "id": "3",
     "Title": "Premium",
     "Price": 40,
     "Intro": "Lorem ipsum dolor sit amet, iscing elit, sed do magna.",
