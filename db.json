@@ -26,7 +26,7 @@
     {
     "id":"1",
     "Name":"Irina",
-    "Image": "/static/images/blog3.jpg",
+    "Image": "static/images/blog3.jpg",
     "Introduction": "Lorem ipsum dolor sit amet, iscing elit, sed do magna",
     "More": ["Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim repellendus, ipsum eum, maiores eaque voluptates cumque tempora alias dolor debitis voluptate. Animi, laboriosam corporis omnis amet quia sapiente labore exercitationem!",
 
@@ -39,7 +39,7 @@
     {
     "id":"2",
     "Name":"Jacob",
-    "Image": "/static/images/blog1.jpg",
+    "Image": "static/images/blog1.jpg",
     "Introduction": "Lorem ipsum dolor sit amet, iscing elit, sed do magna",
     "More": ["Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim repellendus, ipsum eum, maiores eaque voluptates cumque tempora alias dolor debitis voluptate. Animi, laboriosam corporis omnis amet quia sapiente labore exercitationem!",
 
@@ -52,7 +52,7 @@
     {
     "id":"3",
     "Name":"Lonut",
-    "Image": "/static/images/blog2.jpg",
+    "Image": "static/images/blog2.jpg",
     "Introduction": "Lorem ipsum dolor sit amet, iscing elit, sed do magna",
     "More": ["Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim repellendus, ipsum eum, maiores eaque voluptates cumque tempora alias dolor debitis voluptate. Animi, laboriosam corporis omnis amet quia sapiente labore exercitationem!",
 
