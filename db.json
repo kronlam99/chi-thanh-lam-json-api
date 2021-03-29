@@ -3,21 +3,21 @@
     {
     "id":"1",
     "Title": "Lykee nail Salon Creating Beauty",
-    "Image": "/static/images/banner_ing.jpg",
+    "Image": "static/images/banner_ing.jpg",
     "More": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur quisquam aspernatur adipisci veritatis aperiam aut dolore consectetur velit ut! Ex, obcaecati unde sint reiciendis similique maxime commodi adipisci ducimus enim."
 
     },
     {
     "id":"2",
     "Title": "Lykee nail Salon Creating Beauty",
-    "Image": "/static/images/banner_ing.jpg",
+    "Image": "static/images/banner_ing.jpg",
     "More": "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
 
     },
     {
     "id":"3",
     "Title": "Lykee nail Salon Creating Beauty",
-    "Image": "/static/images/banner_ing.jpg",
+    "Image": "static/images/banner_ing.jpg",
     "More": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur quisquam aspernatur adipisci veritatis aperiam aut dolore consectetur velit ut!"
 
     }
@@ -67,8 +67,8 @@
     {
     "id": "1",
     "Title": "Manicure",
-    "Image_intro": "/static/images/weicon2.png",
-    "Image": "/static/images/manicure.jpg",
+    "Image_intro": "static/images/weicon2.png",
+    "Image": "static/images/manicure.jpg",
     "Price": 15.50,
     "Intro": "Lorem ipsum dolor sit amet, consectetur.",
     "More": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit laborum, aperiam reprehenderit laboriosam maxime recusandae expedita exercitationem, pariatur quae, quo iste velit eveniet maiores excepturi iure perferendis facere. Iure, odit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid incidunt, atque dicta distinctio magnam quibusdam eligendi esse explicabo qui eius officia tempore! Vel, illo cum a excepturi reiciendis minima perferendis."
@@ -76,8 +76,8 @@
     {
     "id": "2",
     "Title": "Nail Art",
-    "Image_intro": "/static/images/weicon1.png",
-    "Image": "/static/images/nail-art.jpg",
+    "Image_intro": "static/images/weicon1.png",
+    "Image": "static/images/nail-art.jpg",
     "Price": 15.50,
     "Intro": "Lorem ipsum dolor sit amet, consectetur.",
     "More": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit laborum, aperiam reprehenderit laboriosam maxime recusandae expedita exercitationem, pariatur quae, quo iste velit eveniet maiores excepturi iure perferendis facere. Iure, odit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid incidunt, atque dicta distinctio magnam quibusdam eligendi esse explicabo qui eius officia tempore! Vel, illo cum a excepturi reiciendis minima perferendis."
@@ -85,8 +85,8 @@
     {
     "id": "3",
     "Title": "Paraffin wax",
-    "Image_intro": "/static/images/weicon4.png",
-    "Image": "/static/images/paraffin-wax.jpg",
+    "Image_intro": "static/images/weicon4.png",
+    "Image": "static/images/paraffin-wax.jpg",
     "Price": 15.50,
     "Intro": "Lorem ipsum dolor sit amet, consectetur.",
     "More": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit laborum, aperiam reprehenderit laboriosam maxime recusandae expedita exercitationem, pariatur quae, quo iste velit eveniet maiores excepturi iure perferendis facere. Iure, odit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid incidunt, atque dicta distinctio magnam quibusdam eligendi esse explicabo qui eius officia tempore! Vel, illo cum a excepturi reiciendis minima perferendis."
@@ -94,8 +94,8 @@
     {
     "id": "4",
     "Title": "Pedicure",
-    "Image_intro": "/static/images/weicon3.png",
-    "Image": "/static/images/pedicure.jpg",
+    "Image_intro": "static/images/weicon3.png",
+    "Image": "static/images/pedicure.jpg",
     "Price": 15.50,
     "Intro": "Lorem ipsum dolor sit amet, consectetur.",
     "More": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit laborum, aperiam reprehenderit laboriosam maxime recusandae expedita exercitationem, pariatur quae, quo iste velit eveniet maiores excepturi iure perferendis facere. Iure, odit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid incidunt, atque dicta distinctio magnam quibusdam eligendi esse explicabo qui eius officia tempore! Vel, illo cum a excepturi reiciendis minima perferendis."
